@@ -1,0 +1,13 @@
+@font-face{
+  font-family: "PlemolJP Console NF";
+  font-style: normal;
+  font-weight: 400;
+  src:url("./fonts/PlemolJPConsoleNF-Regular.woff2") format("woff2");
+}
+
+@font-face{
+  font-family: "PlemolJP Console NF";
+  font-style: normal;
+  font-weight: 700;
+  src:url("./fonts/PlemolJPConsoleNF-Bold.woff2") format("woff2");
+}
